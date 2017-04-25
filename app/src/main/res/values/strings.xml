@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">PlaneWar</string>
+    <string name="app_name">GameCenter</string>
+    <string name="plane_war">PlaneWar</string>
+    <string name="sorry_label">Sorry</string>
+    <string name="sorry">很抱歉，我们正在努力开发.......</string>
 </resources>

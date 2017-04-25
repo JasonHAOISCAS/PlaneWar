@@ -1,17 +1,18 @@
-package com.scythe.iscas.planewar;
+package com.scythe.iscas.planewar.planewar;
 
 import android.app.Activity;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.view.Display;
-import android.view.MotionEvent;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
+
+import com.scythe.iscas.planewar.R;
 
 /**
  * Created by iscas on 2017/4/19.

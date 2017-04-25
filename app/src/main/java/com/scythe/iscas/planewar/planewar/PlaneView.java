@@ -1,4 +1,4 @@
-package com.scythe.iscas.planewar;
+package com.scythe.iscas.planewar.planewar;
 
 import android.content.Context;
 import android.graphics.Canvas;
